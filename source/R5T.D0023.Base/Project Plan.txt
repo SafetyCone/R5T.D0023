@@ -1,0 +1,4 @@
+R5T.D0023.Base - A base library for the IConfigurationServiceProviderProvider service.
+
+Goals
+

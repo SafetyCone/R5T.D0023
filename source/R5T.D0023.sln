@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "R5T.Dacia.Extensions", "..\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "R5T.Dacia", "..\..\R5T.Dacia\source\R5T.Dacia\R5T.Dacia.csproj", "{CF9F9F77-CAB4-4D96-8F2C-96C5A679AF13}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "R5T.T0064", "..\..\R5T.T0064\source\R5T.T0064\R5T.T0064.csproj", "{358D9B69-821D-47A0-AC24-EFEAD90DFAAC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,18 @@ Global
 		{CF9F9F77-CAB4-4D96-8F2C-96C5A679AF13}.Release|x64.Build.0 = Release|Any CPU
 		{CF9F9F77-CAB4-4D96-8F2C-96C5A679AF13}.Release|x86.ActiveCfg = Release|Any CPU
 		{CF9F9F77-CAB4-4D96-8F2C-96C5A679AF13}.Release|x86.Build.0 = Release|Any CPU
+		{358D9B69-821D-47A0-AC24-EFEAD90DFAAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{358D9B69-821D-47A0-AC24-EFEAD90DFAAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{358D9B69-821D-47A0-AC24-EFEAD90DFAAC}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{358D9B69-821D-47A0-AC24-EFEAD90DFAAC}.Debug|x64.Build.0 = Debug|Any CPU
+		{358D9B69-821D-47A0-AC24-EFEAD90DFAAC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{358D9B69-821D-47A0-AC24-EFEAD90DFAAC}.Debug|x86.Build.0 = Debug|Any CPU
+		{358D9B69-821D-47A0-AC24-EFEAD90DFAAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{358D9B69-821D-47A0-AC24-EFEAD90DFAAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{358D9B69-821D-47A0-AC24-EFEAD90DFAAC}.Release|x64.ActiveCfg = Release|Any CPU
+		{358D9B69-821D-47A0-AC24-EFEAD90DFAAC}.Release|x64.Build.0 = Release|Any CPU
+		{358D9B69-821D-47A0-AC24-EFEAD90DFAAC}.Release|x86.ActiveCfg = Release|Any CPU
+		{358D9B69-821D-47A0-AC24-EFEAD90DFAAC}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -106,6 +120,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{2C59CA6F-A39C-415A-852B-9987E8E90477} = {E65403F8-8B64-4C97-87AE-63D083252F8D}
 		{CF9F9F77-CAB4-4D96-8F2C-96C5A679AF13} = {E65403F8-8B64-4C97-87AE-63D083252F8D}
+		{358D9B69-821D-47A0-AC24-EFEAD90DFAAC} = {E65403F8-8B64-4C97-87AE-63D083252F8D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A1000BA1-E340-40A5-AAAB-4C3EC4E0E564}
